@@ -11,7 +11,7 @@ A 5-item NFT collection has been created using "Stable Diffusion". The items are
 1. Clone the repository:
 
 ```
-git clone <https://github.com/Isheta20/Bridge-NFT.git>
+git clone <https://github.com/Rajat4279/Bridge-Token.git>
 ```
 
 2. Install the dependencies :
@@ -20,13 +20,7 @@ git clone <https://github.com/Isheta20/Bridge-NFT.git>
 npm i
 ```
 
-3. Install the ERC721A contract:
-
-```
-npm install erc721a
-```
-
-4. Compile the contract and deploy
+3. Compile the contract and deploy
 
 ```
 npx hardhat run scripts/deploy.js --network goerli
